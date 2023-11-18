@@ -6,7 +6,7 @@ These are a collection of my own musical compositions for Acoustic guitar. The p
 
 ## Songs
 
-- [Origins]
+- [Origins](https://github.com/woodRock/sturdy-train/blob/master/Origins.pdf)
     - PDF (https://github.com/woodRock/sturdy-train/blob/master/Origins.pdf)
     - Music score (https://github.com/woodRock/sturdy-train/blob/master/Origins.mscz)
     - MP3 (https://github.com/woodRock/sturdy-train/blob/master/Origins.mp3)
