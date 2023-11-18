@@ -1,4 +1,4 @@
-![image](https://github.com/woodRock/sturdy-train/assets/18411037/83045e91-eca6-4cbd-89be-2c6a69c1a7ee)# Compositions
+# Compositions
 
 ## Description
 
