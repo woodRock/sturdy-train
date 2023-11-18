@@ -7,13 +7,13 @@ These are a collection of my own musical compositions for Acoustic guitar. The p
 ## Songs
 
 - [Origins](https://github.com/woodRock/sturdy-train/blob/master/Origins.pdf)
-    - PDF (https://github.com/woodRock/sturdy-train/blob/master/Origins.pdf)
-    - Music score (https://github.com/woodRock/sturdy-train/blob/master/Origins.mscz)
-    - MP3 (https://github.com/woodRock/sturdy-train/blob/master/Origins.mp3)
+    - [PDF](https://github.com/woodRock/sturdy-train/blob/master/Origins.pdf)
+    - [Music score](https://github.com/woodRock/sturdy-train/blob/master/Origins.mscz)
+    - [MP3](https://github.com/woodRock/sturdy-train/blob/master/Origins.mp3)
 - [Swing](https://github.com/woodRock/sturdy-train/blob/master/Swing.pdf)
-    - PDF (https://github.com/woodRock/sturdy-train/blob/master/Swing.pdf)
-    - Music score (https://github.com/woodRock/sturdy-train/blob/master/Swing.mscz)
-    - MP3 (https://github.com/woodRock/sturdy-train/blob/master/Swing.mp3)
+    - [PDF](https://github.com/woodRock/sturdy-train/blob/master/Swing.pdf)
+    - [Music score](https://github.com/woodRock/sturdy-train/blob/master/Swing.mscz)
+    - [MP3](https://github.com/woodRock/sturdy-train/blob/master/Swing.mp3)
   
 ## Software
 
